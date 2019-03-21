@@ -26,4 +26,4 @@ Faites un pull request sur le Repo Master
 pour mettre en commun vos modifications, vous devrez faire un pull request sur le repo master :   
     depuis votre repo personnel, faite un pull request    
     Sur le PC du formateur (connecté sur le repo master) fusionnez le code de votre pull request    
-    Vérifiez et corrigez tous conflits de code qui pourraient survenir. 
+    Vérifiez et corrigez tous conflits de code qui pourraient survenir. # test
